@@ -8,3 +8,5 @@ This is a heavy modification of the "strug" oh-my-zsh theme: https://github.com/
 curl - `curl -o ~/.oh-my-zsh/custom/themes/glider.zsh-theme https://raw.githubusercontent.com/MrRedacted/zsh-glider/master/glider.zsh-theme`
 
 wget - `wget -O ~/.oh-my-zsh/custom/themes/glider.zsh-theme https://raw.githubusercontent.com/MrRedacted/zsh-glider/master/glider.zsh-theme`
+
+![Screenshot](Screenshot.png?raw=true "Screenshot")
