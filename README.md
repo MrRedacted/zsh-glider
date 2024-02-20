@@ -1,5 +1,5 @@
 # zsh-glider
-Awesome theme for zsh
+Another awesome theme for oh-my-zsh using gruvbox-like colors, with git status decorators
 
 ## To download and add to oh-my-zsh themes, use either curl or wget:
 
